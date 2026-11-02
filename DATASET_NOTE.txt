@@ -1,0 +1,1 @@
+astronomy_stars.csv is a synthetically generated educational dataset, not real telescope observations. See README.md for column descriptions and project limitations.
