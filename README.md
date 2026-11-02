@@ -26,10 +26,3 @@
 The Adult Income notebooks first look for `adult.csv` in the current folder, then attempt to download the UCI Adult dataset. If unavailable, they create a clearly labelled synthetic teaching dataset so that the notebook can still run. Synthetic fallback results must not be presented as real-world dataset findings.
 
 For Lab 4 and Lab 5, a small, explicitly illustrative transaction dataset is created inside the notebook.
-
-## Important notes
-- Run cells from top to bottom.
-- The first run may require internet access to download the UCI dataset and install packages.
-- If `adult.csv` is provided, it should contain the standard Adult dataset columns used in the notebook.
-- Outputs are intentionally blank until you run the notebooks on your machine. Record your actual outputs and observations in your lab report.
-- Lab 7's `OneHotEncoder(sparse_output=False)` requires a recent scikit-learn release; the requirements file pins a compatible version.
