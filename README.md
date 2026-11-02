@@ -72,4 +72,7 @@ The best model is selected from the held-out test-set accuracy and assessed usin
 Because the included dataset is synthetic, its model scores are only for demonstrating the workflow. They should not be interpreted as scientifically valid results about real stars. For research-grade analysis, replace the CSV with a documented public astronomy catalogue and review its measurement units, selection effects, and target-label definitions.
 
 ## Author
-Add your name, student ID, department, and course details here before publishing to GitHub.
+Name: Md. Abdul Al Noman
+Student ID: 232031044
+31st (UG)
+CSE Department
